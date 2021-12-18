@@ -60,10 +60,15 @@ function generateMarkdown(answers) {
 ${renderTableOfContents(answers)}
 
 ## Installation
+${answers.installation}
 
 ## Usage
 
+${answers.usage}
+
 ## Credits
+
+${answers.credits}
 
 ## License
 ${renderLicenseSection(answers.license)}    
