@@ -68,6 +68,10 @@ ${renderTableOfContents(answers)}
 ## License
 ${renderLicenseSection(answers.license)}    
 ${renderLicenseLink(answers.license)}
+
+## Contributing
+
+## Questions
 `;
 }
 

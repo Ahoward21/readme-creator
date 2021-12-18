@@ -1,5 +1,5 @@
 # 123
-  [![License: IPL 1.0](https://img.shields.io/badge/License-IPL_1.0-blue.svg)](https://opensource.org/licenses/IPL-1.0)
+  [![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
 
   ## Description
 
@@ -13,7 +13,17 @@
 * [License](#license)
 
 
+## Installation
+
+## Usage
+
+## Credits
+
 ## License
 
-  This project was build using IBM. For more information visit the link provided    
-[IBM license](https://opensource.org/licenses/IPL-1.0)
+  This project was build using Mozilla. For more information visit the link provided    
+[Mozilla license](https://opensource.org/licenses/MPL-2.0)
+
+## Contributing
+
+## Questions
