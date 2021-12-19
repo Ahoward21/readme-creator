@@ -28,7 +28,7 @@ function renderLicenseLink(license) {
 // If there is no license, return an empty string
 function renderLicenseSection(license) {
   return `
-  This project was build using ${license}. For more information visit the link provided`
+  This project was built using ${license}. For more information about the ${license} license visit the link provided`
 }
 
 function renderTableOfContents(answers) {
@@ -70,13 +70,16 @@ ${answers.usage}
 
 ${answers.credits}
 
-## License
+## License Information
 ${renderLicenseSection(answers.license)}    
 ${renderLicenseLink(answers.license)}
 
 ## Contributing
 
 ## Questions
+${answers.gitHubName}<br>
+${answers.gitHubLink}<br>
+${answers.email}<br>
 `;
 }
 

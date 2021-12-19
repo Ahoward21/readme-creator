@@ -1,9 +1,9 @@
-# pokemon
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# 123
+  [![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
 
   ## Description
 
-  * find your pokemon card!
+  * 123
 
   ## Table of Contents
 
@@ -14,21 +14,24 @@
 
 
 ## Installation
-there were no installion procedures
+123
 
 ## Usage
 
-search a pokemons name and return the trading card for that pokemon
+123
 
 ## Credits
 
-Adam H, Nick P
+123
 
-## License
+## License Information
 
-  This project was build using MIT. For more information visit the link provided    
-[MIT license](https://opensource.org/licenses/MIT)
+  This project was built using Mozilla. For more information about the Mozilla license visit the link provided    
+[Mozilla license](https://opensource.org/licenses/MPL-2.0)
 
 ## Contributing
 
 ## Questions
+ahoward21<br>
+https://github.com/Ahoward21/readme-creator<br>
+anhoward1988@gmail.com<br>

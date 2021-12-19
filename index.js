@@ -35,6 +35,21 @@ const questions = [
         type: 'input',
         name: 'credits',
         message: 'List any collaborators'
+    },
+    {
+        type: 'input',
+        name: 'gitHubName',
+        message: 'Enter GitHub username'
+    },
+    {
+        type: 'input',
+        name: 'gitHubLink',
+        message: 'Enter GitHub link'
+    },
+    {
+        type: 'input',
+        name: 'email',
+        message: 'Enter email address'
     }
     
 
@@ -42,7 +57,7 @@ const questions = [
 
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {
-    // 
+    
 }
 
 // TODO: Create a function to initialize app
