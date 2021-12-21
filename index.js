@@ -24,7 +24,7 @@ const questions = [
     {
         type: 'input',
         name: 'installation',
-        message: 'What installation procedures are needed:(For none type n)'
+        message: 'What installation procedures are needed:(For none type none)'
     },
     {
         type: 'input',
@@ -39,17 +39,17 @@ const questions = [
     {
         type: 'input',
         name: 'gitHubName',
-        message: 'Enter GitHub username'
+        message: 'Enter GitHub username:'
     },
     {
         type: 'input',
         name: 'gitHubLink',
-        message: 'Enter GitHub link'
+        message: 'Enter GitHub URL:'
     },
     {
         type: 'input',
         name: 'email',
-        message: 'Enter email address'
+        message: 'Enter email address:'
     }
     
 

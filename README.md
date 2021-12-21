@@ -1,5 +1,5 @@
 # 123
-  [![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Description
 
@@ -26,12 +26,13 @@
 
 ## License Information
 
-  This project was built using Mozilla. For more information about the Mozilla license visit the link provided    
-[Mozilla license](https://opensource.org/licenses/MPL-2.0)
+  This project was built using MIT. For more information about the MIT license visit the link provided    
+[MIT license](https://opensource.org/licenses/MIT)
 
 ## Contributing
 
 ## Questions
-ahoward21<br>
-https://github.com/Ahoward21/readme-creator<br>
-anhoward1988@gmail.com<br>
+Feel free to contact me with any and all contributions or questions you have.<br> 
+GitHub Name: ahoward21<br>
+GitHub Link: www.link.com<br>
+Email: email@email.com<br>

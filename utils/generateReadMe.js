@@ -33,7 +33,7 @@ function renderLicenseSection(license) {
 
 function renderTableOfContents(answers) {
   let installation = '';
-  if (answers.installation !== 'n') {
+  if (answers.installation !== 'none') {
     installation = '* [Installation](#installation)'
   }
   let usage = '* [Usage](#usage)'
@@ -77,9 +77,10 @@ ${renderLicenseLink(answers.license)}
 ## Contributing
 
 ## Questions
-${answers.gitHubName}<br>
-${answers.gitHubLink}<br>
-${answers.email}<br>
+Feel free to contact me with any and all contributions or questions you have.<br> 
+GitHub Name: ${answers.gitHubName}<br>
+GitHub Link: ${answers.gitHubLink}<br>
+Email: ${answers.email}<br>
 `;
 }
 
