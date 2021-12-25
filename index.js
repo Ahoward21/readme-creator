@@ -24,7 +24,7 @@ const questions = [
     {
         type: 'input',
         name: 'installation',
-        message: 'What installation procedures are needed:(For none type none)'
+        message: 'What installation procedures are needed:(If none, type "none")'
     },
     {
         type: 'input',
@@ -35,6 +35,11 @@ const questions = [
         type: 'input',
         name: 'credits',
         message: 'List any collaborators'
+    },
+    {
+        type: 'input',
+        name: 'contributing',
+        message: 'How would you like to allow others to contribute?'
     },
     {
         type: 'input',
@@ -50,28 +55,24 @@ const questions = [
         type: 'input',
         name: 'email',
         message: 'Enter email address:'
-    }
-    
+    } 
 
 ];
 
-// TODO: Create a function to write README file
-function writeToFile(fileName, data) {
-    
-}
 
 // TODO: Create a function to initialize app
 function init() {
     inquirer.prompt(questions)
-    .then((answers) => {
-        console.log(answers)
-        const createdReadMe = generateReadMe(answers);
-        console.log(createdReadMe)
-    fs.writeFile('README.md', createdReadMe, (err) => {
-        if (err) throw (err);
-        console.log('README successfully generated')
-    })
-    })
+        .then((answers) => {
+            console.log(answers)
+            const createdReadMe = generateReadMe(answers);
+            console.log(createdReadMe)
+            // TODO: Create a function to write README file
+            fs.writeFile('README.md', createdReadMe, (err) => {
+                if (err) throw (err);
+                console.log('README successfully generated')
+            })
+        })
 }
 
 // Function call to initialize app

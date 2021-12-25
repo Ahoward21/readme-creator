@@ -31,6 +31,8 @@ function renderLicenseSection(license) {
   This project was built using ${license}. For more information about the ${license} license visit the link provided`
 }
 
+// Create Table of contents
+
 function renderTableOfContents(answers) {
   let installation = '';
   if (answers.installation !== 'none') {
@@ -76,6 +78,8 @@ ${renderLicenseLink(answers.license)}
 
 ## Contributing
 
+${answers.contributing}
+
 ## Questions
 Feel free to contact me with any and all contributions or questions you have.<br> 
 GitHub Name: ${answers.gitHubName}<br>
@@ -83,5 +87,7 @@ GitHub Link: ${answers.gitHubLink}<br>
 Email: ${answers.email}<br>
 `;
 }
+
+
 
 module.exports = generateMarkdown;

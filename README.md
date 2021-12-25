@@ -1,5 +1,5 @@
 # 123
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  [![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
 
   ## Description
 
@@ -26,13 +26,15 @@
 
 ## License Information
 
-  This project was built using MIT. For more information about the MIT license visit the link provided    
-[MIT license](https://opensource.org/licenses/MIT)
+  This project was built using Mozilla. For more information about the Mozilla license visit the link provided    
+[Mozilla license](https://opensource.org/licenses/MPL-2.0)
 
 ## Contributing
 
+123
+
 ## Questions
 Feel free to contact me with any and all contributions or questions you have.<br> 
-GitHub Name: ahoward21<br>
-GitHub Link: www.link.com<br>
-Email: email@email.com<br>
+GitHub Name: 123<br>
+GitHub Link: 123<br>
+Email: 123<br>
