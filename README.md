@@ -1,8 +1,7 @@
-# Challenge 9: Node.js Challenge: Professional README Generator
+# Professional README Generator
 
-## Description 
+## Description
+I was tasked with creating a command line only application using node.js and inquirer to generate a README.md file for any given project. With the use of inquirer the app will promp users with a series of questions that will be used to write a new readme file.
 
-This week I was tasked with creating a command line app to generate an README.md file using node.js. I had to implement node inquirer in order to promt the user to answers a set of questions regarding their project. 
-
-## Video of the Application
+## Video of Application in Use:
 https://watch.screencastify.com/v/HRqEkrYES9ySwRAChGug
